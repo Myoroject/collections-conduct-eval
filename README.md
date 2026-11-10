@@ -109,3 +109,10 @@ Challenge a scenario. If a pass condition misreads a rule, that is worth more th
 ## Licence
 
 Apache 2.0.
+
+---
+
+## Author
+
+**James Nazareth** · Product Manager  
+[Portfolio](https://portfolio-app-five-chi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/james-nazareth-4651851b6/) · [Email](mailto:jamesnazareth17@gmail.com)
